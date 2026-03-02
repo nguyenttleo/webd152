@@ -114,7 +114,7 @@ footer {
 #yurthero,
 #trailhero {
     background-repeat: no-repeat;
-    background-color: cover;
+    background-size: cover;
     height: 18.75rem;
 }
 
